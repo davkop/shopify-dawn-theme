@@ -1,0 +1,1 @@
+{"parent":"product.json","context":{"market":"eu"},"sections":{"main":{"settings":{},"blocks":{"rating_YQzBG":{"type":"rating","disabled":false,"settings":{"paragraph-0b53f81eeef207d5307428a221d6b026":null}}},"block_order":["vendor","title","rating_YQzBG","variant_picker","description"]}},"order":["main","related-products"]}
